@@ -1,0 +1,23 @@
+Inserido 1.
+[1:e=.,d=.]
+Inserido 2.
+[1:e=.,d=[2:e=.,d=.]]
+Inserido 3.
+[2:e=[1:e=.,d=.],d=[3:e=.,d=.]]
+Inserido 4.
+[2:e=[1:e=.,d=.],d=[3:e=.,d=[4:e=.,d=.]]]
+Inserido 5.
+[2:e=[1:e=.,d=.],d=[4:e=[3:e=.,d=.],d=[5:e=.,d=.]]]
+Inserido 6.
+[4:e=[2:e=[1:e=.,d=.],d=[3:e=.,d=.]],d=[5:e=.,d=[6:e=.,d=.]]]
+Inserido 7.
+[4:e=[2:e=[1:e=.,d=.],d=[3:e=.,d=.]],d=[6:e=[5:e=.,d=.],d=[7:e=.,d=.]]]
+Inserido 8.
+[4:e=[2:e=[1:e=.,d=.],d=[3:e=.,d=.]],d=[6:e=[5:e=.,d=.],d=[7:e=.,d=[8:e=.,d=.]]]]
+Inserido 10.
+[4:e=[2:e=[1:e=.,d=.],d=[3:e=.,d=.]],d=[6:e=[5:e=.,d=.],d=[8:e=[7:e=.,d=.],d=[10:e=.,d=.]]]]
+Inserido 9.
+[4:e=[2:e=[1:e=.,d=.],d=[3:e=.,d=.]],d=[8:e=[6:e=[5:e=.,d=.],d=[7:e=.,d=.]],d=[10:e=[9:e=.,d=.],d=.]]]
+Elemento 9 encontrado.
+Elemento 10 encontrado.
+Elemento 8 encontrado.
